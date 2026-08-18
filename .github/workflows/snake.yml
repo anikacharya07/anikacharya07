@@ -1,5 +1,5 @@
 # Schedule the workflow to run daily at midnight UTC
-
+on:
   schedule:
 
     - cron: "0 0 * * *"
